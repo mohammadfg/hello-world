@@ -6,7 +6,7 @@
 | italic | *view* |
 | code | `view` |
 | Code json | ```{view:true} ``` |
-| IMG | ![Alt]() |
+| emoji | 😂 |
 
 just for learn
 
