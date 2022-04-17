@@ -1,0 +1,25 @@
+@font-face {
+  font-family: IR-sans;
+  src: url('./iranyekanwebmedium.ttf');
+}
+
+* {
+  font-family: IR-sans;
+  padding: 0;
+  margin: 0;
+}
+
+.root {
+  padding: 5px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.card {
+  display: inherit;
+  justify-content: center;
+}
+
+img {
+  width: 75px;
+}
